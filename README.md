@@ -9,7 +9,13 @@ dotnet new webapi
 ```
 
 ```
-az webapp up --name myWebAppluiscoco19777 --resource-group myRG --location EastUS --sku B1 --os-type Windows --runtime "dotnet:8"
+az webapp up ^
+--name myWebAppluiscoco19777 ^
+--resource-group myRG ^
+--location EastUS ^
+--sku B1 ^
+--os-type Windows ^
+--runtime "dotnet:8"
 ```
 
 ## 1. Create a new .NET 8 Web API in VSCode
