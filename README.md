@@ -1,0 +1,2 @@
+# Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI
+Azure WebApp Deploy WebAPIdotNET8 with AzureCLI
