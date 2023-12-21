@@ -48,10 +48,6 @@ az webapp up --name myWebAppluiscoco19777 --resource-group myRG --location EastU
 
 ![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/4043e668-fbb7-42a4-90ee-22441df6b93c)
 
-We verify the new Web API application
-
-![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/250c7b85-089a-4b0b-8b01-46658ebd7fe5)
-
 ## 3. Verify in Azure Portal we created a new AppService Plan and a new Web App
 
 We log in to Azure and we go to "All resources" option.
@@ -60,5 +56,12 @@ We confirm we created a new AppServicePlan called "luiscocoenriquez_asp_6143" an
 
 ![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/e766d523-517c-40ef-b663-1c2c0bbbfd66)
 
+If we enter in the WebApp we can see the new application default domain name "mywebappluiscoco19777.azurewebsites.net"
 
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/1f4ccf41-a930-4a1a-8700-60d49683af3d)
 
+We verify the new Web API application introducing the endpoint in the internet web browser.
+
+The endpoint is composed by the web application default domain name plus the api controller name
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/250c7b85-089a-4b0b-8b01-46658ebd7fe5)
