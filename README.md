@@ -52,6 +52,13 @@ We verify the new Web API application
 
 ![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/250c7b85-089a-4b0b-8b01-46658ebd7fe5)
 
+## 3. Verify in Azure Portal we created a new AppService Plan and a new Web App
+
+We log in to Azure and we go to "All resources" option.
+
+We confirm we created a new AppServicePlan called "luiscocoenriquez_asp_6143" and a new WebApp called "myWebAppluiscoco19777"
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/e766d523-517c-40ef-b663-1c2c0bbbfd66)
 
 
 
