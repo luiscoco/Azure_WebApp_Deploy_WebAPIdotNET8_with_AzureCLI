@@ -18,6 +18,12 @@ az webapp up ^
 --runtime "dotnet:8"
 ```
 
+NOTE: for listing the runtimes execute these commands
+
+```
+az webapp list-runtimes --os Windows
+```
+
 ## 1. Create a new .NET 8 Web API in VSCode
 
 We create a new directory where to place the new application
