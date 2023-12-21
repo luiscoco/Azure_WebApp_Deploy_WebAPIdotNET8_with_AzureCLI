@@ -62,6 +62,6 @@ If we enter in the WebApp we can see the new application default domain name "my
 
 We verify the new Web API application introducing the endpoint in the internet web browser.
 
-The endpoint is composed by the web application default domain name plus the api controller name
+The endpoint is composed by the web application default domain name ("mywebappluiscoco19777.azurewebsites.net") plus the api endpoint name ("weatherforecast")
 
 ![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/250c7b85-089a-4b0b-8b01-46658ebd7fe5)
