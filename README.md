@@ -58,7 +58,7 @@ We confirm we created a new AppServicePlan called "luiscocoenriquez_asp_6143" an
 
 If we enter in the WebApp we can see the new application default domain name "mywebappluiscoco19777.azurewebsites.net"
 
-![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/1f4ccf41-a930-4a1a-8700-60d49683af3d)
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/57a377fb-6192-491f-bc4d-70b8dc7029f7)
 
 We verify the new Web API application introducing the endpoint in the internet web browser.
 
