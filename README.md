@@ -43,7 +43,13 @@ dotnet new webapi --help
 With the following command automatically we create a new Azure AppService Plan and also a new Azure Web App
 
 ```
-az webapp up --name myWebAppluiscoco19777 --resource-group myRG --location EastUS --sku B1 --os-type Windows --runtime "dotnet:8"
+az webapp up ^
+--name myWebAppluiscoco19777 ^
+--resource-group myRG ^
+--location EastUS ^
+--sku B1 ^
+--os-type Windows ^
+--runtime "dotnet:8"
 ```
 
 ![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8_with_AzureCLI/assets/32194879/4043e668-fbb7-42a4-90ee-22441df6b93c)
